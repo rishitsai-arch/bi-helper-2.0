@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+openpyxl
+sqlalchemy
+psycopg2-binary
+python-dotenv
+vanna[chromadb,openai]==0.7.9
+plotly
+pymysql
